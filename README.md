@@ -208,6 +208,15 @@ Common ways of performing Task Decomposition include: (1) using Large Language M
 
 ![image](https://github.com/user-attachments/assets/f4216d91-2e9c-4f96-b589-e7158c6eb708)
 
+## Repository Structure
+
+```python
+Taller-08-AREP-LLM-Parte-2/
+│
+├── README.md                
+└── parte2.py                       
+```
+
 ## Dependencies
 
 - **LangChain**: Framework for building applications with LLMs.

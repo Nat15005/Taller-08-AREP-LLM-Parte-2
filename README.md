@@ -214,3 +214,7 @@ Common ways of performing Task Decomposition include: (1) using Large Language M
 - **OpenAI**: Provides embeddings and language models.
 - **Pinecone**: Vector database for storing and retrieving document embeddings.
 - **LangGraph**: Orchestration framework for multi-step retrieval and generation.
+
+## Author
+
+Developed by [Natalia Rojas](https://github.com/Nat15005)

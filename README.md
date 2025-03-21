@@ -227,3 +227,8 @@ Taller-08-AREP-LLM-Parte-2/
 ## Author
 
 Developed by [Natalia Rojas](https://github.com/Nat15005)
+
+## Acknowledgments
+
+https://python.langchain.com/docs/tutorials/rag/
+https://python.langchain.com/docs/integrations/vectorstores/pinecone
